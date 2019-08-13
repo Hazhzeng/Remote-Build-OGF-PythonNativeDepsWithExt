@@ -1,5 +1,4 @@
 import json
-import numpy
 import azure.functions as func
 from cryptography.fernet import Fernet
 
