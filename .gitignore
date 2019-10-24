@@ -31,6 +31,8 @@ dist
 .env
 .venv
 env/
+env36/
+env37/
 venv/
 ENV/
 env.bak/
@@ -42,3 +44,4 @@ __pycache__/
 *$py.class
 
 .vscode
+.python_packages/
